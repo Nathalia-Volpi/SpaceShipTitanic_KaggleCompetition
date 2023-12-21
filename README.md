@@ -20,4 +20,9 @@ O conjunto de dados inclui informações sobre os passageiros, como idade, gêne
 
 Sinta-se à vontade para fornecer feedback ou sugestões para melhorias no meu notebook. Agradeço qualquer contribuição!
 
+## Citação
+
+Addison Howard, Ashley Chow, Ryan Holbrook. (2022). Spaceship Titanic. Kaggle. https://kaggle.com/competitions/spaceship-titanic
+
+
 *Divirta-se explorando o mistério cósmico da Spaceship Titanic!*
