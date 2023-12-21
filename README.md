@@ -7,6 +7,7 @@ Bem-vindo ao meu notebook para o Desafio Spaceship Titanic no Kaggle! Este é um
 ## Notebook
 
 Este notebook alcançou pontuação de 0,80219
+
 ## Conjunto de Dados
 
 O conjunto de dados inclui informações sobre os passageiros, como idade, gênero, classe e destino na dimensão alternativa e esta disponível em [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic/overview)) 
