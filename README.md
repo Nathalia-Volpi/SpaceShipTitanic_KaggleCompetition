@@ -1,5 +1,6 @@
 # SpaceShipTitanic_KaggleCompetition
 
+
 Bem-vindo ao meu notebook para o Desafio Spaceship Titanic no Kaggle! Este é um projeto inspirado em uma competição Kaggle fictícia, onde a nave Spaceship Titanic colidiu com uma anomalia espaço-temporal, resultando no transporte de passageiros para uma dimensão alternativa.
 
 ## Notebook
