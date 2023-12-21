@@ -4,6 +4,9 @@
 
 Bem-vindo ao meu notebook para o Desafio Spaceship Titanic no Kaggle! Este é um projeto inspirado em uma competição Kaggle fictícia, onde a nave Spaceship Titanic colidiu com uma anomalia espaço-temporal, resultando no transporte de passageiros para uma dimensão alternativa.
 
+## Notebook
+
+Este notebook alcançou pontuação de 0,80219
 ## Conjunto de Dados
 
 O conjunto de dados inclui informações sobre os passageiros, como idade, gênero, classe e destino na dimensão alternativa e esta disponível em [Kaggle](https://www.kaggle.com/competitions/spaceship-titanic/overview)) 
